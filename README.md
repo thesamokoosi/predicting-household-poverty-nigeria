@@ -11,7 +11,7 @@ This project applies Machine Learning algorithms to the Nigeria Demographic and 
 ### 📂 Repository Structure
 * `/scripts`: Final R code for cleaning and modeling.
 * `/visuals`: Plots showing the North-South poverty divide and model performance.
-![Region Plot](visuals/Rplot.png)
+![Region Plot](Visuals/Rplot.png)
 * `/documentation`: Detailed Chapter 4 write-up in LaTeX format.
 
 ### ⚠️ Data Privacy Note
